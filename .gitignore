@@ -1,0 +1,6 @@
+# VIm temporal files.
+.swp
+# General bullshit.
+coverage
+rdoc
+pkg
